@@ -1,3 +1,3 @@
 # DGM
-DGM
+The code will be released soon.
 
